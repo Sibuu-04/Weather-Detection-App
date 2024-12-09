@@ -2,7 +2,8 @@
 
 This Weather Detection App is a simple yet powerful web application that fetches and displays real-time weather data for your current location. It uses the **Geolocation API** to get the user's location and fetches weather data from a reliable weather API.
 
-![App Preview](src/assets/app-preview.png)
+![App Preview](https://github.com/Sibuu-04/Weather-Detection-App/raw/main/app-preview.png)
+
 
 ---
 
